@@ -12,12 +12,21 @@ The AI-Powered OS Monitor is a real-time system monitoring application that prov
 ## Project Structure
 ```
 AI-Powered-OS-Monitor/
-│── cpu_details.py        # Fetches and analyzes CPU usage data
-│── memory_details.py     # Monitors memory usage
-│── disk_details.py       # Tracks disk usage statistics
-│── network_details.py    # Monitors network activity
-│── gpu_details.py        # Retrieves GPU performance metrics
-│── main.py               # Integrates all modules and runs the GUI
+|── system_monitor/
+|   |── __init__.py
+|   │── cpu_details.py        # Fetches and analyzes CPU usage data
+|   │── memory_details.py     # Monitors memory usage
+|   │── disk_details.py       # Tracks disk usage statistics
+|
+|── hardwre-monitor/
+|   |── __init__.py
+|   │── network_details.py    # Monitors network activity
+|   │── gpu_details.py        # Retrieves GPU performance metrics
+|
+|── application/
+|   |── __init__.py
+|   │── main.py               # Integrates all modules and runs the GUI
+|
 │── README.md             # Project documentation
 ```
 
