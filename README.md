@@ -59,7 +59,7 @@ AI-Powered-OS-Monitor/
 This project is licensed under Creative Commons (CC BY-NC 4.0).
 
 ## Author
-[Sushaant Verma] - [Verma-Sushaant](https://github.com/Verma-Sushaant)
+**[Verma-Sushaant]**(https://github.com/Verma-Sushaant)
 
 ## Contributions
 Contributions are welcome! Please create a pull request or raise an issue if you'd like to improve the project.
